@@ -59,8 +59,9 @@ To run this project locally, please follow these steps:
 | Neural Network | *TBD* | *TBD* | *Pending results* |
 
 ## 👥 Team Members
-* **Mr. Supasin Khamphayae** - https://github.com/K400000
-* **Mr. ** - [GitHub Profile](link)
+* **Mr. Supasin Khamphayae** - [GitHub Profile](https://github.com/K400000)
+* **Mr. Piyakorn Kacharnont** - [GitHub Profile](https://github.com/piyakornka-arch)
+* **Mr. Jakkapat Srimek** - [GitHub Profile](https://github.com/jakkapat1513)
 * **Mr. ** - [GitHub Profile](link)
 * **Mr. ** - [GitHub Profile](link)
 * **Mr. ** - [GitHub Profile](link)
