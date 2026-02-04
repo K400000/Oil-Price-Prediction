@@ -1,2 +1,61 @@
-# Oil-Price-Prediction
-A comparative study of machine learning models (MLR, Random Forest, and Neural Networks) for predicting Brent Crude Oil prices. Developed as a mini-project for the Fundamentals of Artificial Intelligence course.
+# 🛢️ Brent Crude Oil Price Prediction
+A comparative study of machine learning models for predicting **Brent Crude Oil Futures** prices. This project is part of the **Fundamentals of Artificial Intelligence** course.
+
+## 📌 Project Overview
+This project aims to forecast daily crude oil prices using historical data. We implement and compare the performance of three different regression models to understand their strengths and limitations in time-series forecasting.
+
+### 🧠 Models Implemented
+1.  **Multiple Linear Regression (MLR):** Serves as a baseline model to establish linear relationships between lagged prices.
+2.  **Random Forest Regression (RFR):** Handles non-linear patterns and offers insights into feature importance.
+3.  **Neural Network (NN):** Utilizes Deep Learning (via TensorFlow/Keras) to capture complex, high-dimensional patterns in the market data.
+
+## 📂 Dataset
+* **Source:** [Kaggle - Historical Crude Oil Futures Prices](https://www.kaggle.com/datasets/nikitamanaenkov/historical-crude-oil-futures-prices-wti-and-brent)
+* **Data Used:** Brent Crude Oil Prices (`brent_prices.csv`) & WTI Prices (`wti_prices.csv`) as a supporting feature.
+* **Timeframe:** 1987 - Present (Data is preprocessed to handle date alignment between markets).
+
+## ⚙️ Installation & Setup
+
+To run this project locally, please follow these steps:
+
+1.  **Clone the repository**
+    ```bash
+    git clone https://github.com/K400000/Oil-Price-Prediction
+    cd Oil-Price-Prediction
+    ```
+
+2.  **Install dependencies**
+    It is recommended to use a virtual environment.
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## 🚀 Usage
+
+1.  **Data Preparation:**
+    Run the preprocessing script to merge and clean the data.
+    ```bash
+    python src/data_preprocessing.py
+    ```
+
+2.  **Train Models:**
+    Run the training script for specific models.
+    ```bash
+    python src/train.py
+    ```
+
+## 📊 Results (Evaluation)
+*Metric used: Root Mean Square Error (RMSE)*
+
+| Model | RMSE | MAE | Accuracy Note |
+| :--- | :--- | :--- | :--- |
+| Linear Regression | *TBD* | *TBD* | *Pending results* |
+| Random Forest | *TBD* | *TBD* | *Pending results* |
+| Neural Network | *TBD* | *TBD* | *Pending results* |
+
+## 👥 Team Members
+* **Mr. Supasin Khamphayae** - https://github.com/K400000
+* **Mr. ** - [GitHub Profile](link)
+* **Mr. ** - [GitHub Profile](link)
+* **Mr. ** - [GitHub Profile](link)
+* **Mr. ** - [GitHub Profile](link)
