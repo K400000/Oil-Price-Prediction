@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Ignore all dataset files (Prevent uploading large files)
+*.csv
+*.xlsx
+
+# Ignore data directories content
+data/raw/
+data/processed/
+
+# ! Exception: Do not ignore README.md files (Keep folder structure)
+!data/**/README.md

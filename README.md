@@ -62,6 +62,6 @@ To run this project locally, please follow these steps:
 * **Mr. Supasin Khamphayae** - [GitHub Profile](https://github.com/K400000)
 * **Mr. Piyakorn Kacharnont** - [GitHub Profile](https://github.com/piyakornka-arch)
 * **Mr. Jakkapat Srimek** - [GitHub Profile](https://github.com/jakkapat1513)
-* **Mr. ** - [GitHub Profile](link)
+* **Mr. Kritamet Manakit** - [GitHub Profile](https://github.com/kritametm-gif)
 * **Mr. ** - [GitHub Profile](link)
 * **Mr. ** - [GitHub Profile](link)
