@@ -1,4 +1,9 @@
 # 🛢️ Brent Crude Oil Price Prediction
+
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![Library](https://img.shields.io/badge/Library-Scikit--Learn%20%7C%20Pandas-orange)
+![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
+
 A comparative study of machine learning models for predicting **Brent Crude Oil Futures** prices. This project is part of the **Fundamentals of Artificial Intelligence** course.
 
 ## 📌 Project Overview
