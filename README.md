@@ -50,13 +50,14 @@ To run this project locally, please follow these steps:
     ```
 
 ## 📊 Results (Evaluation)
-*Metric used: Root Mean Square Error (RMSE)*
+*Metrics used: R² Score, MSE, RMSE, MAE*
 
-| Model | RMSE | MAE | Accuracy Note |
-| :--- | :--- | :--- | :--- |
-| Linear Regression | *TBD* | *TBD* | *Pending results* |
-| Random Forest | *TBD* | *TBD* | *Pending results* |
-| Neural Network | *TBD* | *TBD* | *Pending results* |
+| Model | R² Score | MSE | RMSE | MAE |
+| :--- | :--- | :--- | :--- | :--- |
+| Linear Regression | *TBD* | *TBD* | *TBD* | *TBD* |
+| Random Forest | *TBD* | *TBD* | *TBD* | *TBD* |
+| Neural Network | *TBD* | *TBD* | *TBD* | *TBD* |
+
 
 ## 👥 Team Members
 * **Mr. Supasin Khamphayae** - [GitHub Profile](https://github.com/K400000)
