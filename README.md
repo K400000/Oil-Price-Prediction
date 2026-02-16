@@ -49,15 +49,6 @@ To run this project locally, please follow these steps:
     python src/train.py
     ```
 
-## 📊 Results (Evaluation)
-*Metrics used: R² Score, MSE, RMSE, MAE*
-
-| Model | R² Score | MSE | RMSE | MAE |
-| :--- | :--- | :--- | :--- | :--- |
-| Linear Regression | *TBD* | *TBD* | *TBD* | *TBD* |
-| Random Forest | *TBD* | *TBD* | *TBD* | *TBD* |
-| Neural Network | *TBD* | *TBD* | *TBD* | *TBD* |
-
 
 ## 👥 Team Members
 * **Mr. Supasin Khamphayae** - [GitHub Profile](https://github.com/K400000)
