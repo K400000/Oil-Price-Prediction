@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Library](https://img.shields.io/badge/Library-Scikit--Learn%20%7C%20Pandas-orange)
-![Status](https://img.shields.io/badge/Status-In%20Progress-yellow)
 
 A comparative study of machine learning models for predicting **Brent Crude Oil Futures** prices. This project is part of the **Fundamentals of Artificial Intelligence** course.
 
@@ -37,16 +36,10 @@ To run this project locally, please follow these steps:
 
 ## 🚀 Usage
 
-1.  **Data Preparation:**
+**Data Preparation:**
     Run the preprocessing script to merge and clean the data.
     ```bash
     python src/data_preprocessing.py
-    ```
-
-2.  **Train Models:**
-    Run the training script for specific models.
-    ```bash
-    python src/train.py
     ```
 
 
