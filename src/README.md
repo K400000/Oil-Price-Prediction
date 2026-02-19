@@ -7,10 +7,6 @@ This folder contains the **finalized, executable scripts** for the project. Thes
     * Loads raw data from `data/raw/`.
     * Performs merging, cleaning, and date alignment.
     * Saves the result to `data/processed/`.
-* **`train_models.py`**:
-    * Loads processed data.
-    * Trains all 3 models (MLR, RF, NN) using optimal parameters.
-    * Saves the trained artifacts to `models/`.
 
 > ⚠️ **Important:** Do not modify these files unless you are finalizing the system logic. These are the core scripts for the project workflow.
 
@@ -22,6 +18,5 @@ This folder contains the **finalized, executable scripts** for the project. Thes
 
 ## 🚀 ไฟล์สำคัญ
 * **`data_preprocessing.py`**: สคริปต์สำหรับ "เตรียมข้อมูล" (รวมไฟล์, คลีนค่าว่าง) เพื่อให้เพื่อนทุกคนได้ไฟล์ข้อมูลมาตรฐานเดียวกัน
-* **`train_models.py`**: สคริปต์สำหรับ "สั่งเทรนโมเดลทั้งหมด" รวดเดียวจบ และบันทึกผลลงโฟลเดอร์ `models/`
 
 > ⚠️ **คำเตือน:** **"ไม่ต้องไปยุ่งหรือแก้ไข"** นอกเสียจากว่าต้องการปรับแก้ระบบหลักของโปรเจกต์ เพราะไฟล์นี้คือขั้นตอนสุดท้ายของการทำงาน (Pipeline)
