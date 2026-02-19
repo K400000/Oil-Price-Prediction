@@ -25,4 +25,4 @@ warnings.filterwarnings('ignore')
 sns.set_style('whitegrid')
 plt.rcParams['figure.figsize'] = (12, 6)
 
-print('✅ Common libraries imported successfully from lib_import.py')
+print('lib_import.py imported successfully')
